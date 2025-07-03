@@ -1,5 +1,5 @@
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&center=true&vCenter=true&width=435&lines=%7BHello+World+%2C+Nehaam+here+%F0%9F%8C%9F%7D;%7BFull+Stack+Developer%E2%9A%A1%7D" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&center=true&vCenter=true&width=480&lines=%7BHello+World+%2C+Nehaam+here+%F0%9F%8C%9F%7D;%7BFull+Stack+Developer%E2%9A%A1%7D" alt="Typing SVG">
 </div>
 <br>
 <div align="center">
@@ -15,11 +15,11 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=5000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Let's+Transform+Ideas;Into+Reality!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=5000&pause=1000&color=FF69B4&center=true&vCenter=true&width=480&lines=Let's+Transform+Ideas;Into+Reality!+✨" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aadil0307&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nehaamkhan&style=flat-square&color=blue" alt="Profile views" />
 </div>
 
 <br>
@@ -32,7 +32,7 @@
 
 <ul>
 <h2 align="center">📫 Reach Me</h2><br>
-  <li>📧 Reach me at: <a href="mailto:aadilshaikh2164@gmail.com">aadilshaikh2164@gmail.com</a></li><br>
+  <li>📧 Reach me at: <a href="mailto:knehaam098@gmail.com">knehaam098@gmail.com</a></li><br>
   <li>📄 Check out my <a href="https://drive.google.com/file/d/1s3uOBxU3CL6hEr8ratEQUvnxBiRxgVR9/view?usp=drive_link">Resume</a></li>
 </ul>
 
@@ -100,14 +100,14 @@
 
 <h2 align="center">📊 Most Used Language</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadil0307&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="GitHub Summary"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nehaamkhan&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="GitHub Summary"/>
 </div>
 
 <br>
 
 <h2 align="center">🔥 GitHub Stats</h2>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadil0307&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="Mohd Aadil" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehaamkhan&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="Nehaam Khan" />
 </div>
 
 <br>
@@ -115,14 +115,14 @@
 
 <h2 align="center">⚡ GitHub Streak</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadil0307&theme=tokyonight" alt="GitHub Summary"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehaamkhan&theme=tokyonight" alt="GitHub Summary"/>
 </div>
 
 <br>
 
 <h2 align="center">📌 GitHub User Content</h2>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadil0307&theme=radical" alt="GitHub Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nehaamkhan&theme=radical" alt="GitHub Summary"/>
 </div>
 
 <br>
