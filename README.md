@@ -24,10 +24,11 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NehaamKhan/NehaamKhan/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NehaamKhan/NehaamKhan/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NehaamKhan/NehaamKhan/output/pacman-contribution-graph.svg">
+</picture>
 <br/>
 
 <ul>
