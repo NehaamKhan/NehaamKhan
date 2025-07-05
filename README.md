@@ -1,21 +1,21 @@
-  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&center=true&vCenter=true&width=480&lines=%7BHello+World+%2C+Nehaam+here+%F0%9F%8C%9F%7D;%7BFull+Stack+Developer%E2%9A%A1%7D" alt="Typing SVG">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1500&center=true&vCenter=true&width=480&lines=%7BHello+World%2C+Nehaam+here+%F0%9F%8C%9F%7D;%7BFull+Stack+Developer%E2%9A%A1%7D" alt="Typing SVG">
 </div>
 <br>
 <div align="center">
-  <a href="https://discord.com/users/1015294609041141830" target="_blank">
-    <img alt="Nehaam Khan | Discord" width="40" height="40" src="https://skillicons.dev/icons?i=discord" />
-  </a>&nbsp;&nbsp; 
   <a href="https://www.linkedin.com/in/nehaamkhan" target="_blank">
-    <img alt="Nehaam Khan | LinkedIn" width="40" height="40" src="https://skillicons.dev/icons?i=linkedin" />
+    <img alt="Nehaam Khan | LinkedIn" width="40" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" />
   </a>&nbsp;&nbsp; 
   <a href="mailto:knehaam098@gmail.com?subject='Hey there, nice connecting with you'" target="_blank">
-    <img alt="Gmail" src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
-  </a>
+    <img alt="Gmail" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/+919821517523?text=Hey%20there,%20nice%20connecting%20with%20you." target="_blank">
+    <img alt="Nehaam Khan | Discord" width="40" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" />
+  </a> 
 </div>
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=5000&pause=1000&color=FF69B4&center=true&vCenter=true&width=480&lines=Let's+Transform+Ideas;Into+Reality!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=FF69B4&center=true&vCenter=true&width=480&lines=%7BLet's+Transform+Ideas%7D;%7BInto+Reality!+✨%7D" alt="Typing SVG" />
 </div>
 
 <div align="center">
