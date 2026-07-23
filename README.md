@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Nehaam Khan
 
-### Cybersecurity Engineer • CTF Player • Cloud Enthusiast
+### Cybersecurity Engineer • Cloud Enthusiast • Blockchain Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+Secure+Applications;Cybersecurity+%7C+Cloud+%7C+AI;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+Secure+Applications;Cybersecurity+%7C+Cloud+%7C+Blockchain;Always+Learning+Something+New"/>
 
 <p>
   <a href="https://github.com/NehaamKhan">
@@ -38,7 +38,7 @@
 
 ## ⭐ Featured Projects
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/NehaamKhan/TickETH">
 <picture>
@@ -92,7 +92,7 @@
 </picture>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -113,10 +113,22 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=NehaamKhan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NehaamKhan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+</picture>
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NehaamKhan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NehaamKhan&layout=compact&theme=transparent&hide_border=true"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NehaamKhan&layout=compact&theme=tokyonight&hide_border=true"
+  />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NehaamKhan&layout=compact&theme=transparent&hide_border=true"/>
+</picture>
 
 </div>
 
