@@ -134,7 +134,15 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=NehaamKhan&theme=transparent&hide_border=true"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=NehaamKhan&theme=tokyonight&hide_border=true"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=NehaamKhan&theme=transparent&hide_border=true"
+  />
+</picture>
 
 </div>
 
