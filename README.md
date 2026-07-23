@@ -40,25 +40,23 @@
 
 <p align="center">
 
-<a href="https://github.com/NehaamKhan/NFT-Ticketing-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NehaamKhan&repo=NFT-Ticketing-System&theme=transparent&hide_border=true" />
+<a href="https://github.com/NehaamKhan/TickETH">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NehaamKhan&repo=TickETH&theme=transparent&hide_border=true" />
 </a>
 
-<a href="https://github.com/NehaamKhan/QuizCraft-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NehaamKhan&repo=QuizCraft-AI&theme=transparent&hide_border=true" />
+<a href="https://github.com/NehaamKhan/QuizCraft">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NehaamKhan&repo=QuizCraft&theme=transparent&hide_border=true" />
 </a>
 
 <a href="https://github.com/NehaamKhan/DecentraCloud">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=NehaamKhan&repo=DecentraCloud&theme=transparent&hide_border=true" />
 </a>
 
-<a href="https://github.com/NehaamKhan/Text-Encryption-Tool">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NehaamKhan&repo=Text-Encryption-Tool&theme=transparent&hide_border=true" />
+<a href="https://github.com/NehaamKhan/Text-Cryptography-Tool">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NehaamKhan&repo=Text-Cryptography-Tool&theme=transparent&hide_border=true" />
 </a>
 
 </p>
-
-> **Note:** If any repository name is different, simply replace the `repo=` value with the correct repository name.
 
 ---
 
