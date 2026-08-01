@@ -100,10 +100,18 @@
 
 <div align="center">
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NehaamKhan/NehaamKhan/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NehaamKhan/NehaamKhan/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NehaamKhan/NehaamKhan/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/NehaamKhan/NehaamKhan/output/puzzle-bobble-contribution-graph-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/NehaamKhan/NehaamKhan/output/puzzle-bobble-contribution-graph.svg">
+
+  <img
+    alt="Puzzle Bobble Contribution Graph"
+    src="https://raw.githubusercontent.com/NehaamKhan/NehaamKhan/output/puzzle-bobble-contribution-graph.svg">
 </picture>
 </div>
 
