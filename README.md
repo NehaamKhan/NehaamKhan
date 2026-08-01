@@ -99,19 +99,18 @@
 ## 🎮 Contribution Graph
 
 <div align="center">
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/NehaamKhan/NehaamKhan/output/puzzle-bobble-contribution-graph-dark.svg">
+    srcset="https://cdn.jsdelivr.net/gh/NehaamKhan/NehaamKhan@output/puzzle-bobble-contribution-graph-dark.svg">
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/NehaamKhan/NehaamKhan/output/puzzle-bobble-contribution-graph.svg">
+    srcset="https://cdn.jsdelivr.net/gh/NehaamKhan/NehaamKhan@output/puzzle-bobble-contribution-graph.svg">
 
   <img
     alt="Puzzle Bobble Contribution Graph"
-    src="https://raw.githubusercontent.com/NehaamKhan/NehaamKhan/output/puzzle-bobble-contribution-graph.svg">
+    src="https://cdn.jsdelivr.net/gh/NehaamKhan/NehaamKhan@output/puzzle-bobble-contribution-graph.svg">
 </picture>
 </div>
 
