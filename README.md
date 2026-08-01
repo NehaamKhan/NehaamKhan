@@ -101,9 +101,9 @@
 <div align="center">
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/NehaamKhan/NehaamKhan/output/puzzle-bobble-contribution-graph.svg#gh-light-mode-only" alt="Puzzle Bobble Contribution Graph"/>
+<img src="https://raw.githubusercontent.com/NehaamKhan/NehaamKhan/output/bomberman-contribution-graph.svg#gh-light-mode-only" alt="Puzzle Bobble Contribution Graph"/>
 
-<img src="https://raw.githubusercontent.com/NehaamKhan/NehaamKhan/output/puzzle-bobble-contribution-graph-dark.svg#gh-dark-mode-only" alt="Puzzle Bobble Contribution Graph"/>
+<img src="https://raw.githubusercontent.com/NehaamKhan/NehaamKhan/output/bomberman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Puzzle Bobble Contribution Graph"/>
 
 </p>
 </div>
