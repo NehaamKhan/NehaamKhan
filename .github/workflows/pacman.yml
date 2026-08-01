@@ -13,16 +13,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - uses: github-user-actions/snk@v1
         with:
           github_user_name: NehaamKhan
           outputs: |
-            output/pacman-contribution-graph.svg?palette=github
-            output/pacman-contribution-graph-dark.svg?palette=github-dark
+            dist/pacman-contribution-graph.svg?palette=github-light
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
