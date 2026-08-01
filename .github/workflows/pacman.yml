@@ -24,8 +24,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-          # Generate Puzzle Bobble
-          games: "puzzle-bobble"
+          games: "bomberman"
 
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
