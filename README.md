@@ -44,10 +44,10 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NehaamKhan&repo=TickETH&theme=tokyonight&hide_border=true"
+    srcset="https://github-stats-extended.vercel.app/api/pin/?username=NehaamKhan&repo=TickETH&theme=tokyonight&hide_border=true"
   />
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NehaamKhan&repo=TickETH&theme=transparent&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=NehaamKhan&repo=TickETH&theme=transparent&hide_border=true"
     alt="TickETH"
   />
 </picture>
@@ -57,10 +57,10 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NehaamKhan&repo=QuizCraft&theme=tokyonight&hide_border=true"
+    srcset="https://github-stats-extended.vercel.app/api/pin/?username=NehaamKhan&repo=QuizCraft&theme=tokyonight&hide_border=true"
   />
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NehaamKhan&repo=QuizCraft&theme=transparent&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=NehaamKhan&repo=QuizCraft&theme=transparent&hide_border=true"
     alt="QuizCraft"
   />
 </picture>
@@ -70,10 +70,10 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NehaamKhan&repo=DecentraCloud&theme=tokyonight&hide_border=true"
+    srcset="https://github-stats-extended.vercel.app/api/pin/?username=NehaamKhan&repo=DecentraCloud&theme=tokyonight&hide_border=true"
   />
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NehaamKhan&repo=DecentraCloud&theme=transparent&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=NehaamKhan&repo=DecentraCloud&theme=transparent&hide_border=true"
     alt="DecentraCloud"
   />
 </picture>
@@ -83,10 +83,10 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NehaamKhan&repo=Text-Cryptography-Tool&theme=tokyonight&hide_border=true"
+    srcset="https://github-stats-extended.vercel.app/api/pin/?username=NehaamKhan&repo=Text-Cryptography-Tool&theme=tokyonight&hide_border=true"
   />
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NehaamKhan&repo=Text-Cryptography-Tool&theme=transparent&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=NehaamKhan&repo=Text-Cryptography-Tool&theme=transparent&hide_border=true"
     alt="Text-Cryptography-Tool"
   />
 </picture>
@@ -117,17 +117,17 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=NehaamKhan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    srcset="https://github-stats-extended.vercel.app/api?username=NehaamKhan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
   />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NehaamKhan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=NehaamKhan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 </picture>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NehaamKhan&layout=compact&theme=tokyonight&hide_border=true"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=NehaamKhan&layout=compact&theme=tokyonight&hide_border=true"
   />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NehaamKhan&layout=compact&theme=transparent&hide_border=true"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NehaamKhan&layout=compact&theme=transparent&hide_border=true"/>
 </picture>
 
 </div>
